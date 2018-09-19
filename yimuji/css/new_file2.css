@@ -1,0 +1,121 @@
+.big_bg{width: 100%;height: 260px;background: url(../img/big_img1.jpg) no-repeat;
+background-size: cover;background-position: center;}
+.yz_biaod{width: 100%;height: 770px;background: #f5f7fa;border-bottom: 1px solid #f0f0f0;}
+.yz_biaod_zhong{width: 1100px;margin: 0 auto;}
+.yz_biaod_1{font-size: 32px;font-weight: bold;color: #ff5e00;height: 108px;line-height: 108px;text-align: center;}
+.yz_biaod_2{}
+.W_yz{width: 1100px;}
+.W_yz em,.W_yz span{font-style: normal;color: #464647;font-size: 14px;}
+.W_1{width: 1100px;height: 53px;background: #fff;line-height: 53px;border-bottom: 1px dashed #dedede;}
+.W_2{width: 1100px;height: 53px;background: #fff;line-height: 53px;border-bottom: 1px dashed #dedede;}
+.W_3{width: 1100px;height: 53px;background: #fff;line-height: 53px;border-bottom: 1px dashed #dedede;}
+.W_4{width: 1100px;height: 53px;background: #fff;line-height: 53px;border-bottom: 1px dashed #dedede;}
+.W_5{width: 1100px;height: 53px;background: #fff;line-height: 53px;border-bottom: 1px dashed #dedede;}
+.W_6{width: 1100px;height: 53px;background: #fff;line-height: 53px;}
+.W_6_em{color:#ff5e00!important;}
+.W_6 span:not(.W_6_em){font-size: 14px;color: #464647;font-weight: 700;}
+.left_em{margin-left: 22px;}
+
+.input1{width: 220px;height: 26px;outline: none;background: #f5f7fa;border: none;border-radius: 4px;}
+.input2{background: #ff640a;width: 55px;height: 26px;border-radius: 4px;outline: none;border: none;color: white;
+font-size: 14px;margin-left: 2px;}
+.W_yz span{margin-left: 44px;display: inline-block;}
+.W_1_img{width: 18px;height: 13px;margin-right: 20px;}
+.nav_right ul li .nav_span_3{display: inline-block;width: 100px;height: 30px;line-height: 25px;border-top: 2px solid #1969be;}
+.nav_right ul .nav_two a{display: inline-block;margin-top: 23px;color: #1969be;}
+.input1{color: #bcbdbe;}
+input::-webkit-input-placeholder {  
+font-size: 12px;
+color: #bcbdbe;
+
+} 
+input::-ms-input-placeholder {  
+font-size: 12px;
+color: #bcbdbe;
+
+} 
+input::-o-input-placeholder {  
+font-size: 12px;
+color: #bcbdbe;
+
+} 
+input::-moz-placeholder {  
+font-size: 12px;
+color: #bcbdbe;
+
+} 
+input::input-placeholder {  
+font-size: 12px;
+color: #bcbdbe;
+
+} 
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+    -webkit-appearance: none !important;
+    margin: 0; 
+}
+/*
+Firefox下：*/
+
+input[type="number"]{-moz-appearance:textfield;}
+
+
+.WL_2 em,.WL_2 span{font-style: normal;color: #464647;font-size: 14px;}
+.W_2 span{margin-left: 44px;display: inline-block;}
+
+
+.WL_2{border-top:1px solid #dedede;width: 1100px;}
+
+.W_3_zhong_img{width: 110px;height: 18px;position: absolute;top: -27px;left: 0px;right: 0px;bottom: 0px;margin: 0 auto;z-index: 2;}
+.W_3{position: relative;}
+
+.W_3_img_xiangsahng{width: 183px;height: 29px;cursor: pointer;z-index: 2;margin: 0 auto;}
+
+
+
+.active{background: #1969be;height: 24px;line-height: 24px;display: inline-block;
+
+border-radius: 4px;color: white!important;}
+
+
+
+
+.W_yz span,.WL_2 span{cursor: pointer;padding: 0px 5px 0px 6px;}
+
+
+.top{z-index: 6666;}
+
+
+.zijin_block{width: 401px;height: 60px;background: url(../img/zijin1.png) no-repeat;
+background-size: cover;background-position: center;margin:0 auto;margin-top: 17px;cursor: pointer;}
+
+
+.WL_2,.W_3_zhong_img{display: none;}
+
+.W_5 .input_b{font-weight: 400;display: inline-block;}
+
+
+.W_5_i{cursor: pointer;color: blue;display: none;}
+
+
+
+.nav_qiehuan{width: 100%;height: 44px;border-bottom: 2px solid #e5e5e5;background: #f9f9f9;}
+.nav_qiehuan ul li{float: left;height: 44px;padding: ;line-height: 44px;}
+
+.nav_qiehuan ul li a{font-size:14px;padding: 4px 35px 4px 36px;}
+
+.nav_qiehuan_div1{width: 1100px;height: 44px;margin: 0 auto;}
+.zijichi{width: 1100px;margin: 0 auto;height: 293px;background: #fff;}
+.zuiwai{width: 100%;background: #f5f7fa;overflow: hidden;}
+
+
+.active1{ border-bottom: 2px solid #1969be;}
+.activv{color: #1969be;}
+
+.footeree{background: url(../img/1212.jpg) no-repeat;background-size: cover;background-position: center;
+width: 1100px;height: 545px;margin: 0 auto;position: relative;}
+.fooer_wai{width: 100%;height: 545px;background: #f5f7fa;border-bottom: 1px solid #e9e9e9;}
+.footeree span{width: 400px;height: 60px;cursor: pointer;display: inline-block;position: absolute;left: 350px;top: 400px;}
+.zijichi:hover{box-shadow: 5px 5px 4px #ccc;cursor: pointer;}
+.zuiwai{display: none;}

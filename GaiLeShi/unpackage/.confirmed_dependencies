@@ -1,0 +1,35 @@
+{
+	"index.html": {
+		"resources": [
+			"img/G_cheng.jpg",
+			"css/load8.css",
+			"img/gai_x_sanjiao.png",
+			"img/G_shi.jpg",
+			"img/gai_car_tou.png",
+			"css/reset_app.css",
+			"img/G_Yuan.png",
+			"img/gai_juan.png",
+			"css/sm.min.css",
+			"css/index.css",
+			"js/sm.min.js",
+			"Audio/2103.wav",
+			"img/G_Bgimg1.png",
+			"img/gai_bgImg.jpg",
+			"js/sm-extend.min.js",
+			"img/G_Yuan_hui.png",
+			"img/G_cha.jpg",
+			"img/Gai_tou.png",
+			"js/swiper-3.4.1.min.js",
+			"js/zepto.min.js",
+			"img/G_quxiao.jpg",
+			"js/howler.min.js",
+			"img/G_juan.jpg",
+			"css/swiper-3.4.1.min.css",
+			"img/G_T.png",
+			"js/index.js",
+			"Audio/no.wav",
+			"css/sm-extend.min.css",
+			"img/G_Dsj.png"
+		]
+	}
+}

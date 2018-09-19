@@ -1,0 +1,35 @@
+{
+	"index.html": {
+		"resources": [
+			"img/G2_duihuan.png",
+			"img/G2_duihuan-04.png",
+			"img/G_cheng.jpg",
+			"css/load8.css",
+			"img/G_shi.jpg",
+			"img/gai_car_tou.png",
+			"css/reset_app.css",
+			"css/sm.min.css",
+			"css/index.css",
+			"img/G2_nr2.png",
+			"img/G2_jizhang.png",
+			"img/G2_shibai.png",
+			"js/sm.min.js",
+			"img/G2_bg_img.png",
+			"img/G2_cheng.png",
+			"Audio/2103.wav",
+			"js/sm-extend.min.js",
+			"img/Gai_tou.png",
+			"js/swiper-3.4.1.min.js",
+			"js/zepto.min.js",
+			"js/howler.min.js",
+			"css/swiper-3.4.1.min.css",
+			"js/index.js",
+			"Audio/no.wav",
+			"css/sm-extend.min.css",
+			"img/G_cha.jpg",
+			"img/G_quxiao.jpg",
+			"img/G2_cha.jpg",
+			"img/G2_nr1.png"
+		]
+	}
+}
